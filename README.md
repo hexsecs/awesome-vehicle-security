@@ -339,7 +339,7 @@ Libraries and tools that don't fall under the larger class of applications above
 - [canopen](https://canopen.readthedocs.io/en/latest/) Python module to communicate with CANopen devices
 - [cantools](https://github.com/eerimoq/cantools) Python module to decode and encode CAN messages using a DBC file
 - [Caring Caribou Next](https://github.com/Cr0wTom/caringcaribounext) - Upgraded and optimized version of the original Caring Caribou project.
-- [canarchy](https://github.com/hexsecs/canarchy) - CANarchy is a stream-first CAN analysis and manipulation runtime designed for automation, security research, and agent-driven workflows.
+- [CANarchy](https://github.com/hexsecs/canarchy) - CLI-first CAN security research toolkit with J1939 workflows, structured JSON events, and an MCP server.
 
 
 ### Go
